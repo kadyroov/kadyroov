@@ -5,9 +5,9 @@
 
 <details>
 <summary>📊 GitHub Stats:</summary>
-![](https://github-readme-stats.vercel.app/api?username=kadyroov&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadyroov&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kadyroov&theme=prussian&hide_border=true)
+    <img src="https://github-readme-stats.vercel.app/api?username=kadyroov&theme=onedark&hide_border=true&include_all_commits=false&count_private=true" width="400px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadyroov&theme=onedark&hide_border=true" width="400px">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadyroov&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="400px">
 </details>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
